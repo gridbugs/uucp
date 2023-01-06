@@ -1,5 +1,5 @@
 description = "Unicode character properties"
-version = "%%VERSION_NUM%%"
+version = "f20f9d8"
 requires = ""
 archive(byte) = "uucp.cma"
 archive(native) = "uucp.cmxa"

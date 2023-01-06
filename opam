@@ -1,3 +1,4 @@
+version: "f20f9d8"
 opam-version: "2.0"
 name: "uucp"
 synopsis: "Unicode character properties for OCaml"

@@ -1,4 +1,4 @@
-{0 Uucp {%html: <span class="version">%%VERSION%%</span>%}}
+{0 Uucp {%html: <span class="version">v15.0.0-dirty</span>%}}
 
 Uucp provides efficient access to a selection of character properties
 of the Unicode character database.

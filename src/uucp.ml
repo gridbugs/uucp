@@ -5,7 +5,7 @@
 
 (* Unicode version *)
 
-let unicode_version = "%%UNICODE_VERSION%%"
+let unicode_version = "15.0.0"
 
 (* Properties *)
 

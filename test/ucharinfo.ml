@@ -656,7 +656,7 @@ let man = [
      $(i,http://www.unicode.org/reports/tr44/)"; ]
 
 let ucharinfo =
-  Cmd.v (Cmd.info "ucharinfo" ~version:"%%VERSION%%" ~doc ~exits ~man)
+  Cmd.v (Cmd.info "ucharinfo" ~version:"v15.0.0" ~doc ~exits ~man)
     Term.(const ucharinfo $ cmd $ keys $ spec_fmt $ out_fmt $ uspecs)
 
 

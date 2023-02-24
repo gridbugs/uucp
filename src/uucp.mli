@@ -12,7 +12,7 @@
     introduction and OCaml Unicode tips. Individual modules have
     sample code related to the properties.
 
-    {e Unicode version %%UNICODE_VERSION%%}
+    {e Unicode version 15.0.0}
 
     {3 References}
     {ul
